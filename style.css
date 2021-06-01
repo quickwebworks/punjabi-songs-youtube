@@ -22,7 +22,7 @@ body{
 }
 
 .container{
-  width: 560px;
+  width: 36.9%;
   background-color: #fff;
   margin:0 auto;
 }
@@ -45,30 +45,24 @@ section{
 }
 
 main{
-  padding: 370px 0px 0px ;
+  padding: 370px 0;
 }
 
 article{
   display: flex;
-  padding: 8px 12px;
+  padding: 8px;
   align-items: center;
   border: 1px solid #fff;
   margin: 0 auto;
 }
 article:hover{
     border: 1px solid #c7cbd1;
-    background-color: #ebedef;
+    background-color: #eeeeee;
     cursor: pointer;
   }
-article:visited{
-  font-weight: bold;
-  border: 5px solid #c7cbd1;
-  background-color: #ebedef;
-  cursor: pointer;
-}
 article:active{
   font-weight: bold;
-  border: 5px solid #c7cbd1;
+  border: 4px solid #c7cbd1;
   background-color: #ebedef;
   cursor: pointer;
 }
@@ -79,5 +73,5 @@ article:active{
 
 
 .details{
-  padding: 8px 22px;
+  padding: 8px;
 }
