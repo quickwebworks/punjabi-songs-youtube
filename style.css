@@ -22,7 +22,6 @@ body{
 }
 
 .container{
-	width:100%;
   	max-width:560px;
   	background-color: #fff;
   	margin:0 auto;
